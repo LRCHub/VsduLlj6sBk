@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "以心☆電信",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-02T15:53:25.268165Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "以心☆電信",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_以心☆電信_みらくらぱーく!.txt"
+    }
+  ]
+}
